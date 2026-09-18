@@ -1,75 +1,64 @@
+👋 Hi there, I'm Anjali Sain!
+🚀 Results-Driven DevOps & Cloud Engineer
+Bridging the gap between development and operations with automated pipelines, robust infrastructure, and scalable cloud solutions.
 
+🔥 Core Tech Stack & Interactive Skills
+Microsoft Azure: Resource Provisioning, Azure CLI, Monitoring
 
-Hi there, I'm Anjali Sain! 👋
-🚀 Results-driven DevOps & Cloud Engineer
-Specialized in Azure Cloud, CI/CD automation, Infrastructure as Code (IaC), and reliable deployment operations. Proven ability to automate deployments, improve infrastructure reliability, reduce downtime, and support enterprise-scale applications.
+AWS & GCP: Cloud Adoption & Multi-Cloud Exposure
 
-🛠️ Technical Skills
-Cloud Platforms: Microsoft Azure (Azure CLI), AWS, GCP
-
-CI/CD & Automation: Jenkins, GitHub Actions, Azure Pipelines
-
-Infrastructure as Code (IaC): Terraform, State Management, Modular Terraform Structure
+Infrastructure as Code (IaC): Terraform (State Management, Modular Structure)
 
 Containers & Orchestration: Docker, Kubernetes
 
-Version Control: Git, GitHub, Branching Strategies
+Pipelines: Jenkins, GitHub Actions, Azure Pipelines, Custom CI/CD
+
+Version Control: Git, GitHub, Advanced Branching Strategies
 
 Operating Systems & Web Servers: Linux (Ubuntu), Windows, Nginx, IIS
 
-Scripting & Languages: Python, Bash, PowerShell
+Languages: Python, Bash, PowerShell
 
-Databases & Monitoring: MySQL, MongoDB, Azure Monitoring, Prometheus, Grafana
+Databases: MySQL, MongoDB
+
+Observability: Azure Monitoring, Prometheus, Grafana
 
 💼 Professional Experience
 🔹 DevOps Engineer | Nityo Tech Private Limited (Gurgaon)
-March 2025 – July 2026
+📅 March 2025 – July 2026
 
-Designed and maintained robust CI/CD pipelines using Jenkins for automated build, test, and deployment workflows.
+🚀 Automated Deployments: Designed and maintained robust CI/CD pipelines using Jenkins for automated build, test, and deployment cycles.
 
-Deployed and managed enterprise applications on Microsoft Azure; configured Nginx for load balancing and reverse proxy.
+🌐 Cloud & Load Balancing: Deployed and managed enterprise applications on Microsoft Azure while configuring Nginx for load balancing and reverse proxy.
 
-Managed Git repositories and implemented structured branching strategies to streamline release management.
+🛠️ Infrastructure as Code: Engineered and managed IaC using Terraform for seamless, automated Azure resource provisioning.
 
-Developed and managed Infrastructure as Code (IaC) using Terraform for seamless Azure resource provisioning.
+🌿 Release Management: Managed Git repositories and implemented structured branching strategies to streamline collaboration.
 
 🔹 Associate Engineer | BN Technology Private Limited (Noida)
-August 2024 – March 2025
+📅 August 2024 – March 2025
 
-Developed and maintained web applications using the MERN stack, optimizing performance and enhancing user experience.
+💻 Full-Stack Development: Developed and maintained web applications using the MERN stack, optimizing performance and user experience.
 
-Participated in rigorous code reviews, followed engineering best practices, and contributed to continuous improvement initiatives.
+📈 Quality & Best Practices: Participated in rigorous code reviews and contributed to continuous improvement initiatives.
 
-Supported cloud infrastructure deployment and routine maintenance activities.
+☁️ Cloud Operations: Supported core cloud infrastructure deployment and routine maintenance activities.
 
 📂 Featured Projects
 🌐 Tech Insights – Network Flow Management
-Overview: Worked on the deployment and maintenance of a large-scale internal platform managing end-to-end design project workflows.
+What it does: Deployment and maintenance of a large-scale internal platform managing end-to-end design project workflows.
 
-Key Contributions:
-
-Built and maintained CI/CD pipelines to ensure smooth, fast, and reliable deployments across multiple environments.
-
-Collaborated closely with developers, testers, and business teams to ensure seamless releases.
-
-Contributed to automation and version control practices, significantly improving deployment efficiency and reducing downtime.
+Key Impact: Built and maintained CI/CD pipelines ensuring fast, reliable deployments across multiple environments while collaborating closely with cross-functional teams to minimize downtime.
 
 ⚙️ Automated CI/CD Pipeline for Web Application
-Overview: Comprehensive automation setup for modern web application deployment.
+What it does: End-to-end automation setup for modern web application deployment.
 
-Key Contributions:
-
-Containerized frontend and backend services utilizing Docker.
-
-Supported cloud adoption initiatives by assisting in Azure infrastructure provisioning and setup.
-
-Enforced robust infrastructure security and compliance through automated policy checks integrated directly into CI/CD pipelines.
+Key Impact: Containerized frontend and backend services using Docker, accelerated Azure cloud adoption, and enforced security compliance through automated policy checks inside the CI/CD pipeline.
 
 🎓 Education
-Bachelor of Technology (B.Tech) in Computer Science and Engineering
+🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering
 
 Indraprastha Engineering College (IPEC), Ghaziabad
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sainanjali706a) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/S Anjali ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sainanjali_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anjali-sain-devops) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@anjalisain13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sainanjali083@gmail.com) 
