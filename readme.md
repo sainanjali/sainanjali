@@ -1,64 +1,55 @@
-👋 Hi there, I'm Anjali Sain!
-🚀 Results-Driven DevOps & Cloud Engineer
-Bridging the gap between development and operations with automated pipelines, robust infrastructure, and scalable cloud solutions.
+# **👋 Hi there, I'm Anjali Sain!**
 
-🔥 Core Tech Stack & Interactive Skills
-Microsoft Azure: Resource Provisioning, Azure CLI, Monitoring
+### **🚀 Results-Driven DevOps & Cloud Engineer**
+*Bridging the gap between development and operations with automated pipelines, robust infrastructure, and scalable cloud solutions.*
 
-AWS & GCP: Cloud Adoption & Multi-Cloud Exposure
+---
 
-Infrastructure as Code (IaC): Terraform (State Management, Modular Structure)
+## **🔥 Core Tech Stack & Interactive Skills**
 
-Containers & Orchestration: Docker, Kubernetes
+<details>
+<summary><b>☁️ Cloud Platforms & Infrastructure</b></summary>
 
-Pipelines: Jenkins, GitHub Actions, Azure Pipelines, Custom CI/CD
+* **Microsoft Azure:** Resource Provisioning, Azure CLI, Monitoring
+* **AWS & GCP:** Cloud Adoption & Multi-Cloud Exposure
+* **Infrastructure as Code (IaC):** Terraform (State Management, Modular Structure)
+* **Containers & Orchestration:** Docker, Kubernetes
+</details>
 
-Version Control: Git, GitHub, Advanced Branching Strategies
+<details>
+<summary><b>⚡ CI/CD, Automation & Version Control</b></summary>
 
-Operating Systems & Web Servers: Linux (Ubuntu), Windows, Nginx, IIS
+* **Pipelines:** Jenkins, GitHub Actions, Azure Pipelines, Custom CI/CD
+* **Version Control:** Git, GitHub, Advanced Branching Strategies
+* **Operating Systems & Web Servers:** Linux (Ubuntu), Windows, Nginx, IIS
+</details>
 
-Languages: Python, Bash, PowerShell
+<details>
+<summary><b>💻 Scripting, Databases & Monitoring</b></summary>
 
-Databases: MySQL, MongoDB
+* **Languages:** Python, Bash, PowerShell
+* **Databases:** MySQL, MongoDB
+* **Observability:** Azure Monitoring, Prometheus, Grafana
+</details>
 
-Observability: Azure Monitoring, Prometheus, Grafana
+---
 
-💼 Professional Experience
-🔹 DevOps Engineer | Nityo Tech Private Limited (Gurgaon)
-📅 March 2025 – July 2026
+## **💼 Professional Experience**
 
-🚀 Automated Deployments: Designed and maintained robust CI/CD pipelines using Jenkins for automated build, test, and deployment cycles.
+### **🔹 DevOps Engineer | Nityo Tech Private Limited (Gurgaon)**
+*📅 **March 2025 – July 2026***
+* **🚀 Automated Deployments:** Designed and maintained robust CI/CD pipelines using **Jenkins** for automated build, test, and deployment cycles.
+* **🌐 Cloud & Load Balancing:** Deployed and managed enterprise applications on **Microsoft Azure** while configuring **Nginx** for load balancing and reverse proxy.
+* **🛠️ Infrastructure as Code:** Engineered and managed IaC using **Terraform** for seamless, automated Azure resource provisioning.
+* **🌿 Release Management:** Managed Git repositories and implemented structured branching strategies to streamline collaboration.
 
-🌐 Cloud & Load Balancing: Deployed and managed enterprise applications on Microsoft Azure while configuring Nginx for load balancing and reverse proxy.
+### **🔹 Associate Engineer | BN Technology Private Limited (Noida)**
+*📅 **August 2024 – March 2025***
+* **💻 Full-Stack Development:** Developed and maintained web applications using the **MERN stack**, optimizing performance and user experience.
+* **📈 Quality & Best Practices:** Participated in rigorous code reviews and contributed to continuous improvement initiatives.
+* **☁️ Cloud Operations:** Supported core cloud infrastructure deployment and routine maintenance activities.
 
-🛠️ Infrastructure as Code: Engineered and managed IaC using Terraform for seamless, automated Azure resource provisioning.
-
-🌿 Release Management: Managed Git repositories and implemented structured branching strategies to streamline collaboration.
-
-🔹 Associate Engineer | BN Technology Private Limited (Noida)
-📅 August 2024 – March 2025
-
-💻 Full-Stack Development: Developed and maintained web applications using the MERN stack, optimizing performance and user experience.
-
-📈 Quality & Best Practices: Participated in rigorous code reviews and contributed to continuous improvement initiatives.
-
-☁️ Cloud Operations: Supported core cloud infrastructure deployment and routine maintenance activities.
-
-📂 Featured Projects
-🌐 Tech Insights – Network Flow Management
-What it does: Deployment and maintenance of a large-scale internal platform managing end-to-end design project workflows.
-
-Key Impact: Built and maintained CI/CD pipelines ensuring fast, reliable deployments across multiple environments while collaborating closely with cross-functional teams to minimize downtime.
-
-⚙️ Automated CI/CD Pipeline for Web Application
-What it does: End-to-end automation setup for modern web application deployment.
-
-Key Impact: Containerized frontend and backend services using Docker, accelerated Azure cloud adoption, and enforced security compliance through automated policy checks inside the CI/CD pipeline.
-
-🎓 Education
-🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering
-
-Indraprastha Engineering College (IPEC), Ghaziabad
+---
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sainanjali706a) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/S Anjali ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sainanjali_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anjali-sain-devops) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@anjalisain13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sainanjali083@gmail.com) 
